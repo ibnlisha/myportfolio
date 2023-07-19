@@ -1,0 +1,6 @@
+.about-container .frame, .about-container .profile {
+  flex: 1;
+}
+.about-container .frame .profileImage {
+  width: 100%;
+}/*# sourceMappingURL=about.css.map */

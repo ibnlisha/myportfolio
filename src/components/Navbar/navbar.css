@@ -1,0 +1,7 @@
+.navbar .nav {
+  list-style-type: none;
+  display: flex;
+}
+.navbar .nav .nav-link {
+  margin-left: 1em;
+}/*# sourceMappingURL=navbar.css.map */

@@ -6,7 +6,15 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.container{
+  width: 80%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+.justify-content-space{
+  justify-content: space-between;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

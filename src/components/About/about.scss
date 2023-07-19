@@ -1,0 +1,10 @@
+.about-container{
+    .frame,.profile{
+        flex: 1;
+    }
+    .frame{
+        .profileImage{
+            width: 100%;
+        }
+    }
+}
